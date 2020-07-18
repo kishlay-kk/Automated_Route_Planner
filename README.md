@@ -32,6 +32,6 @@ run the bat file with edits
 
  ![location](https://github.com/kishlay-kk/Automated_Route_Planner/blob/master/loaction.json.jpg)
 
- ![working](Screenshots/Working.jpg)
+ ![working](https://github.com/kishlay-kk/Automated_Route_Planner/blob/master/Working.jpg)
 
- ![output](Screenshots/output.jpg)
+ ![output](https://github.com/kishlay-kk/Automated_Route_Planner/blob/master/output.jpg)
