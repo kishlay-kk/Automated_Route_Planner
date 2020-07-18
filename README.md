@@ -30,7 +30,7 @@ run the bat file with edits
 
  # Working
 
- ![location](Screenshots/loaction.json.jpg)
+ ![location](https://github.com/kishlay-kk/Automated_Route_Planner/blob/master/loaction.json.jpg)
 
  ![working](Screenshots/Working.jpg)
 
