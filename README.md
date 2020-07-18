@@ -14,6 +14,10 @@ A version of Puppeteer that doesn't download Chromium by default. npm i puppetee
 To run the script node Script-Name.js locations.json "Mode of commute" or run the bat file with edits
 
 # Note
-Enter location in 'location.json' file and update the moderator ID in '.bat' File before running
+**Enter location in 'location.json' file and update the moderator ID in '.bat' File before running**
 
 # Working
+![1](https://github.com/zaper1402/Automated-Route-Planner-/blob/master/Screenshots/loaction.json.jpg)
+![2](https://github.com/zaper1402/Automated-Route-Planner-/blob/master/Screenshots/Working.jpg)
+![3](https://github.com/zaper1402/Automated-Route-Planner-/blob/master/Screenshots/output.jpg)
+
