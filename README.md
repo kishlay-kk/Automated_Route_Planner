@@ -1,23 +1,37 @@
 # Automated Route Planner
-This is a **Puppeteer** and **NodeJs** automation script for planning the most efficient route to visit all your stopages and reach your destination.It automates the process of finding the most optimum route and saves a PDF of its Direction to your disk.
 
-*It done using -
-  *Using NodeJs, Puppeteer and chromium library
-  ![Node Js](https://camo.githubusercontent.com/06a5732f1658ade91d5a4b8fab468cc35a2fceed/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e253341414e64394763545568342d63627730796e73686c327a6462385a2d35546f6450546133497331464c3865314b4249624e446d694543735a3326757371703d434155)
+This is a **Puppeteer** and **NodeJs** automation script for planning the most efficient route to visit all your stopages and reach your destination.It automates the process of finding the most optimum route and saves a PDF of its Direction to your disk. 
+
+It done using - 
+
+ - Using NodeJs, Puppeteer and chromium library
+ 
+ 
+![Nodsjs]( https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUh4-cbw0ynshl2zdb8Z-5TodPTa3Is1FL8e1KBIbNDmiECsZ3&usqp=CAU)
 
 # Prerequisites
-Install puppeteer npm i puppeteer Note: When you install Puppeteer, it downloads a recent version of Chromium
 
-A version of Puppeteer that doesn't download Chromium by default. npm i puppeteer-core
+Install puppeteer `npm i puppeteer`
+Note: When you install Puppeteer, it downloads a recent version of Chromium
+
+A version of Puppeteer that doesn't download Chromium by default.
+ `npm i puppeteer-core`
+ 
+
 
 # Command
-To run the script node Script-Name.js locations.json "Mode of commute" or run the bat file with edits
+To run the script 
+`node Script-Name.js locations.json "Mode of commute" `
+or 
+run the bat file with edits
 
-# Note
-**Enter location in 'location.json' file and update the moderator ID in '.bat' File before running**
+## Note
+**Enter location  in 'location.json' file and update the moderator ID in '.bat' File before running**
 
-# Working
-![1](https://github.com/zaper1402/Automated-Route-Planner-/blob/master/Screenshots/loaction.json.jpg)
-![2](https://github.com/zaper1402/Automated-Route-Planner-/blob/master/Screenshots/Working.jpg)
-![3](https://github.com/zaper1402/Automated-Route-Planner-/blob/master/Screenshots/output.jpg)
+ # Working
 
+ ![location](Screenshots/loaction.json.jpg)
+
+ ![working](Screenshots/Working.jpg)
+
+ ![output](Screenshots/output.jpg)

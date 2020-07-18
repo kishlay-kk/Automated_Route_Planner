@@ -1,0 +1,6 @@
+{
+    "URL":"https://www.google.com/maps/dir///",
+    "startPt": "Patparganj",
+    "endPt": "Rohini",
+    "stopages": ["Paschim Vihar","Laxmi Nagar","Connaught Place"]
+}
